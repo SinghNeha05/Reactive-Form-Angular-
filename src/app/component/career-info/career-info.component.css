@@ -1,0 +1,25 @@
+.marg-top-10{
+  margin-top: 10px;
+}
+.marg-right-10{
+  margin-right: 10px;
+}
+.marg-left{
+  margin-left: 171px;
+}
+.btnCenter{
+      display: flex;
+    margin: auto;
+}
+.marg-top-20 {
+  margin-top: 20px;
+}
+.marg-botm{
+  margin-bottom: 0px;
+}
+.bg-clr{
+  background-color: whitesmoke;
+}
+.error-style{
+  color: red;
+}
